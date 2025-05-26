@@ -1,1 +1,3 @@
 # Retail-order-of-a-global-mart-sales-data
+
+This project analyzes the sales data of a global retail mart to extract meaningful business insights through data cleaning, exploration, and visualization using Python. The analysis covers key aspects like sales trends, regional performance, shipping efficiency, and product profitability. Using libraries such as Pandas, Matplotlib, and Seaborn within Jupyter Notebook, the project provides a comprehensive overview of customer behavior and operational patterns. It aims to support better decision-making and lays the groundwork for future enhancements like dashboard development and predictive analytics.
